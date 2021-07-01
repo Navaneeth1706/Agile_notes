@@ -1,0 +1,98 @@
+ 
+ Notes on agile methodology:
+ 
+ In IT we are using this model for software development lifecycle. In simple words we can say it refers starting and ending of the software lifecycle.
+ Earlier we used to practice waterfall model/Vmodel/sprial model. Now are are using Agile.
+ Following these methods leads to time consumption in delivering software to clients/customers.
+ 
+ 
+ What is agile? In simple words Agile is fast.
+ In this methodology we can deliver the software with in short span of time.
+ 3 months/6 months.
+ 
+ for example, in Covid situation, govt developed online applications/portals in short span of time.
+ -> covid vaccination details linked to passport.
+ -> Uper need to update passenger details in their site instantly.
+ 
+ In old methodology, they follow following steps befor developing software.
+ 1. Requirments gathering- business analyst.
+ 2. Requirments analysis
+ 	dev/testers/tools
+	training/recruitment
+	hardware requirments
+3. planning
+4. Designiing
+5. Development
+6. Testing
+7. Implementation
+
+It takes 6 months by paper. But if some abnormal circumstances araises, then it takes 1 year to deliver.
+
+to avoid this, dev team creates one pager to collect details,
+for ex, to create application for online purchase, they collect details about,
+1. App
+	offer details
+2. online purchase details
+3. mode of payment
+(homepage/grocery page/items selection/payment/message)
+
+EPIC:
+Collecting these details is called as EPIC.
+
+Whole project requirment is EPIC and sub-requirments(topics involved) are known as stories or user stories.
+
+(homepage-user story1
+/grocery page-user story2
+/items selection--user story3
+/payment-user story4
+/message-user story5)
+
+now one user story has several tasks.
+
+For example, for homepage-user story1
+-creating URL
+-cloud
+-design
+-development
+-login
+-admin
+
+likewise development(as a whole team plan to deliver this tasks within client requirment time)
+
+SPRINT:
+Sprint is the time frame of delivering the project with in specific intervals.
+
+For example, 1 week/2 week. With int his period, dev team needto deliver whatever planned with user stories and tasks.
+Sprint can be varied with each organizations.
+
+Sprint planning:
+Note: In Agile, we dont have team lead role.
+
+They use poker cards which gives the complexity of the task. All the team members should
+provide their complexity to the team.
+
+for ex: complexity 1 refers to 8 hours(can be varied with each organizations).
+
+once we planned and assigned the tasks for specific resources,
+To track the activities we should have-
+
+Daily standup call
+	what i did yesterday?
+	Whats my plan today?
+	issues/hurdles.
+
+Sprint demo with customer.
+
+Sprint retrospective meeting -
+	To share feedback and appriciations.
+	
+Here they share the feedback on below topics in open forum.
+- Strength
+- Weekness
+- Threats
+- oppurtunities
+	
+
+
+
+ 
