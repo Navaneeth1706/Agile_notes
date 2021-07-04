@@ -1,3 +1,8 @@
+#Day2 in training
+
+# 1. Print function displays the contents
+# 2. type function display data type of the variable
+
 no = 10
 print(no)
 print(type(no))
@@ -28,14 +33,24 @@ no2 = 4
 print(no2)
 print(id(no2))
 
+#len function takes length of the variable and print function displays the length of the variable.
+
 name = 'thasha'
 print(len(name))
 
 no = 888.894555
+
+#Round function takes whole number.
 print(round(no))
+#Round[round(no,2)] function gives 2numbers after decimalpoints
 print(round(no,2))
+#Round[round(no,3)] function gives 2numbers after decimalpoints
 print(round(no,3))
 
+#Follow practice shows us the way to display numbers in
+# 1. Binary form
+# 2. Octal form
+# 3. Hexa decimal form
 
 #binary form
 
